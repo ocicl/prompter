@@ -5,6 +5,6 @@ Live-narrowing, fuzzy-matching, extensible prompt framework
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/atlas-engineer/prompter.git |
-| commit  | 0038eb2                                            |
+| commit  | 1cc03a7                                            |
 | systems | prompter                                           |
 |---------+----------------------------------------------------|
