@@ -8,4 +8,4 @@ Live-narrowing, fuzzy-matching, extensible prompt framework
 | commit  | fb0302d                                            |
 | systems | prompter                                           |
 |---------+----------------------------------------------------|
- 
+  
